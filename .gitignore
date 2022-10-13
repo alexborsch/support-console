@@ -2,9 +2,11 @@
 __pycache__/
 *.py[cod]
 *$py.class
-
+supportconsole/uploads/*
 # C extensions
 *.so
+.DS_Store
+*.bin
 
 # Distribution / packaging
 .Python
